@@ -26,7 +26,7 @@ var mixedcase = "Hi,there!"
 mixedcase === mixedcase.toUpperCase()
 mixedcase === mixedcase.to lowerCase()
 
-if (string === lowercase) {
+if (whisper()) {
   console.log("I can\'t hear you!")
  }
 }
